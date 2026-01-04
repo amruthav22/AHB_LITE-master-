@@ -60,6 +60,12 @@ This allows users to:
 - Verified SINGLE transfers (`HBURST = 000`)
 - Verified multiple BURST transfers (`HBURST = 001` to `111`)
 - Clean arbitration and transfer sequencing observed in waveforms
+## EDA Playground Link
+
+The complete AHB master design and verification environment can be simulated on EDA Playground using the link below:
+
+🔗 **EDA Playground:**  
+https://www.edaplayground.com/x/EsM7
 
 ## Author
 Amrutha
